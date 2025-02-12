@@ -47,9 +47,9 @@ Make sure you have the following installed:
 
 You can install the required dependencies using pip:
 
-      ```bash
-      pip install -r requirements.txt
-      ```
+```bash
+pip install -r requirements.txt
+```
 
 ## Running the App
 ---------------
