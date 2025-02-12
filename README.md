@@ -47,23 +47,28 @@ Make sure you have the following installed:
 
 You can install the required dependencies using pip:
 
-      ```bash
+    ```bash
     pip install -r requirements.txt
+    ```
 
-Running the App
+## Running the App
 ---------------
 
 ### Start the Streamlit UI:
 
 To run the Streamlit application, use:
+
     ```bash
-    run app.py   `
+    streamlit run app.py
+    ```
 
 ### Start the Telegram Bot:
 
 To launch the Telegram bot, run:
+
     ```bash
-    telegram_bot.py   `
+    python telegram_bot.py
+    ``` `
 
 Make sure to replace YOUR\_TOKEN\_KEY in the bot code with your actual Telegram bot token from BotFather.
 
