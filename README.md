@@ -55,14 +55,14 @@ Running the App
 ### Start the Streamlit UI:
 
 To run the Streamlit application, use:
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopystreamlit run app.py   `
+    ```bash
+    run app.py   `
 
 ### Start the Telegram Bot:
 
 To launch the Telegram bot, run:
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopypython telegram_bot.py   `
+    ```bash
+    telegram_bot.py   `
 
 Make sure to replace YOUR\_TOKEN\_KEY in the bot code with your actual Telegram bot token from BotFather.
 
