@@ -152,10 +152,6 @@ Issues
 
 If you encounter any issues, feel free to open an issue.
 
-License
--------
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Example Usage
 -------------
