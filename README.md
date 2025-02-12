@@ -46,8 +46,9 @@ Make sure you have the following installed:
   - ollama
 
 You can install the required dependencies using pip:
+
     ```bash
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Running the App
 ---------------
