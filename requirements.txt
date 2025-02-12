@@ -1,0 +1,12 @@
+streamlit
+wordcloud
+matplotlib
+requests
+beautifulsoup4
+chromadb
+langchain-ollama
+duckduckgo-search
+python-telegram-bot
+ollama
+langchain
+telegram
