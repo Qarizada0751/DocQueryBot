@@ -58,17 +58,17 @@ pip install -r requirements.txt
 
 To run the Streamlit application, use:
 
-      ```bash
-      streamlit run app.py
-      ```
+```bash
+streamlit run app.py
+```
 
 ### Start the Telegram Bot:
 
 To launch the Telegram bot, run:
 
-      ```bash
-      python telegram_bot.py
-      ``` `
+```bash
+python telegram_bot.py
+``` 
 
 Make sure to replace YOUR\_TOKEN\_KEY in the bot code with your actual Telegram bot token from BotFather.
 
