@@ -46,10 +46,9 @@ Make sure you have the following installed:
   - ollama
 
 You can install the required dependencies using pip:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+      ```py
+      pip install -r requirements.txt
+      ```
 
 ## Running the App
 ---------------
@@ -57,10 +56,9 @@ You can install the required dependencies using pip:
 ### Start the Streamlit UI:
 
 To run the Streamlit application, use:
-
-    ```bash
-    streamlit run app.py
-    ```
+      ```bash
+      streamlit run app.py
+      ```
 
 ### Start the Telegram Bot:
 
