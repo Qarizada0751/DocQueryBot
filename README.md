@@ -46,7 +46,7 @@ Make sure you have the following installed:
   - ollama
 
 You can install the required dependencies using pip:
-      ```py
+      ```bash
       pip install -r requirements.txt
       ```
 
