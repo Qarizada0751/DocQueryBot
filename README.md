@@ -46,6 +46,7 @@ Make sure you have the following installed:
   - ollama
 
 You can install the required dependencies using pip:
+
       ```bash
       pip install -r requirements.txt
       ```
@@ -56,6 +57,7 @@ You can install the required dependencies using pip:
 ### Start the Streamlit UI:
 
 To run the Streamlit application, use:
+
       ```bash
       streamlit run app.py
       ```
@@ -64,9 +66,9 @@ To run the Streamlit application, use:
 
 To launch the Telegram bot, run:
 
-    ```bash
-    python telegram_bot.py
-    ``` `
+      ```bash
+      python telegram_bot.py
+      ``` `
 
 Make sure to replace YOUR\_TOKEN\_KEY in the bot code with your actual Telegram bot token from BotFather.
 
